@@ -8,4 +8,4 @@
       These doors are able to know which entity are they beeing interacted with,
       they do so in order to have different behaviours depending on who opens/closes them.
       Controls:
-      E to Open/Close doors.
+        E to Open/Close doors.
